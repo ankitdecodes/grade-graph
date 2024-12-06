@@ -24,4 +24,4 @@ st.write(
 
 # Footer
 st.markdown('<div style="text-align: center;">© 2023 GradeGraph</div>', unsafe_allow_html=True)
-st.markdown('<div style="text-align: center;">For more information Follow us on <a href="">GitHub</a></div>', unsafe_allow_html=True)
+st.markdown('<div style="text-align: center;">For more information Follow us on <a href="https://github.com/ankitdecodes/grade-graph">GitHub</a></div>', unsafe_allow_html=True)

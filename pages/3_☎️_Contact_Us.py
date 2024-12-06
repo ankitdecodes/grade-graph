@@ -20,4 +20,4 @@ st.write(f'<iframe src="{google_form_url}" width="640" height="910" frameborder=
 # Footer
 st.markdown("---")
 st.markdown('<div style="text-align: center;">© 2023 GradeGraph</div>', unsafe_allow_html=True)
-st.markdown('<div style="text-align: center;">For more information Follow us on <a href="">GitHub</a></div>', unsafe_allow_html=True)
+st.markdown('<div style="text-align: center;">For more information Follow us on <a href="https://github.com/ankitdecodes/grade-graph">GitHub</a></div>', unsafe_allow_html=True)
